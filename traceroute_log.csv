@@ -1,0 +1,23 @@
+timestamp,target,hop,hostname,ip_address,response_time,status
+2024-11-06 19:07:45,google.com,2,N/A,N/A,(192.100.192.106) 3.051 ms 2.736 ms 7.162 ms,Success
+2024-11-06 19:07:45,google.com,3,N/A,N/A,(201.150.35.37) 5.042 ms 4.000 ms 3.184 ms,Success
+2024-11-06 19:07:45,google.com,4,N/A,N/A,(10.253.0.74) 3.198 ms 3.660 ms 4.420 ms,Success
+2024-11-06 19:07:45,google.com,5,N/A,N/A,(10.253.0.14) 3.601 ms 3.811 ms 6.272 ms,Success
+2024-11-06 19:07:45,google.com,6,N/A,N/A,(201.163.194.75) 22.624 ms 29.459 ms 31.013 ms,Success
+2024-11-06 19:07:45,google.com,7,N/A,N/A,(200.188.60.74) 22.860 ms,Success
+2024-11-06 19:07:45,google.com,200-188-60-78.static.axtel.net,200-188-60-78.static.axtel.net,(200.188.60.78),22.766 ms,Success
+2024-11-06 19:07:45,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,(200.188.60.74),32.900 ms,Success
+2024-11-06 19:07:45,google.com,8,N/A,N/A,(200.188.82.69) 22.663 ms,Success
+2024-11-06 19:07:45,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,(200.188.82.73),23.157 ms 22.361 ms,Success
+2024-11-06 19:07:45,google.com,9,N/A,N/A,(142.250.47.234) 9.876 ms 13.279 ms 12.113 ms,Success
+2024-11-06 19:07:45,google.com,10,N/A,N/A,* *,Success
+2024-11-06 19:07:45,google.com,11,N/A,N/A,(192.178.80.192) 10.794 ms,Success
+2024-11-06 19:07:45,google.com,192.178.72.64,N/A,(192.178.72.64),7.911 ms,Success
+2024-11-06 19:07:45,google.com,192.178.72.32,N/A,(192.178.72.32),7.747 ms,Success
+2024-11-06 19:07:45,google.com,12,N/A,N/A,(192.178.80.197) 8.074 ms 7.836 ms,Success
+2024-11-06 19:07:45,google.com,192.178.104.60,N/A,(192.178.104.60),8.757 ms,Success
+2024-11-06 19:07:45,google.com,13,N/A,N/A,(192.178.243.125) 8.217 ms,Success
+2024-11-06 19:07:45,google.com,192.178.104.233,N/A,(192.178.104.233),8.058 ms,Success
+2024-11-06 19:07:45,google.com,192.178.104.231,N/A,(192.178.104.231),7.854 ms,Success
+2024-11-06 19:07:45,google.com,14,N/A,N/A,(192.178.56.142) 7.523 ms 13.336 ms,Success
+2024-11-06 19:07:45,google.com,192.178.80.199,N/A,(192.178.80.199),8.059 ms,Success
