@@ -26,4 +26,6 @@ dist/
 .ipynb_checkpoints/
 
 # Ignore CSV backup or temporary files
+network_speed.csv
+traceroute_log.csv
 *.csv~
