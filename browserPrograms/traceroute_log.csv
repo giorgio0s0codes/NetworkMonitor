@@ -1,95 +1,197 @@
 timestamp,target,hop,hostname,ip_address,response_time,status
-2024-11-20 14:51:35,google.com,2,N/A,N/A,(192.100.192.106) 3.722 ms 4.037 ms 8.200 ms,Success
-2024-11-20 14:51:35,google.com,3,N/A,N/A,(201.150.35.37) 5.322 ms 5.277 ms 5.216 ms,Success
-2024-11-20 14:51:35,google.com,4,N/A,N/A,(10.253.0.70) 4.543 ms 7.555 ms 3.656 ms,Success
-2024-11-20 14:51:35,google.com,5,N/A,N/A,(10.253.0.14) 3.882 ms 3.256 ms 5.887 ms,Success
-2024-11-20 14:51:35,google.com,6,N/A,N/A,(201.163.194.75) 25.421 ms 23.125 ms 25.400 ms,Success
-2024-11-20 14:51:35,google.com,7,N/A,N/A,(200.188.60.78) 23.423 ms 25.267 ms,Success
-2024-11-20 14:51:35,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,(200.188.60.74),23.358 ms,Success
-2024-11-20 14:51:35,google.com,8,N/A,N/A,(200.188.82.69) 26.343 ms,Success
-2024-11-20 14:51:35,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,(200.188.82.73),28.899 ms *,Success
-2024-11-20 14:51:35,google.com,9,N/A,N/A,(142.250.47.234) 14.973 ms 10.340 ms 9.652 ms,Success
-2024-11-20 14:51:35,google.com,10,N/A,N/A,* *,Success
-2024-11-20 14:51:35,google.com,11,N/A,N/A,(142.251.235.44) 13.651 ms,Success
-2024-11-20 14:51:35,google.com,192.178.80.192,N/A,(192.178.80.192),10.558 ms 8.698 ms,Success
-2024-11-20 14:51:35,google.com,12,N/A,N/A,(192.178.72.43) 9.666 ms,Success
-2024-11-20 14:51:35,google.com,192.178.72.41,N/A,(192.178.72.41),11.969 ms,Success
-2024-11-20 14:51:35,google.com,192.178.104.234,N/A,(192.178.104.234),8.619 ms,Success
-2024-11-20 14:51:35,google.com,13,N/A,N/A,(192.178.104.127) 9.160 ms,Success
-2024-11-20 14:51:35,google.com,192.178.104.59,N/A,(192.178.104.59),10.479 ms,Success
-2024-11-20 14:51:35,google.com,192.178.104.131,N/A,(192.178.104.131),10.376 ms,Success
-2024-11-20 14:51:35,google.com,14,N/A,N/A,(192.178.52.142) 9.235 ms 9.205 ms,Success
-2024-11-20 14:51:35,google.com,192.178.72.41,N/A,(192.178.72.41),9.557 ms,Success
-2024-11-20 14:53:01,google.com,2,N/A,N/A,(192.100.192.106) 3.853 ms 7.905 ms 3.256 ms,Success
-2024-11-20 14:53:01,google.com,3,N/A,N/A,(201.150.35.37) 5.778 ms 5.369 ms 3.871 ms,Success
-2024-11-20 14:53:01,google.com,4,N/A,N/A,(10.253.0.70) 4.241 ms 6.834 ms 9.765 ms,Success
-2024-11-20 14:53:01,google.com,5,N/A,N/A,(10.253.0.14) 5.777 ms 5.239 ms 5.884 ms,Success
-2024-11-20 14:53:01,google.com,6,N/A,N/A,(201.163.194.75) 23.441 ms 25.804 ms 24.331 ms,Success
-2024-11-20 14:53:01,google.com,7,N/A,N/A,(200.188.60.78) 29.382 ms 24.587 ms,Success
-2024-11-20 14:53:01,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,(200.188.60.74),23.449 ms,Success
-2024-11-20 14:53:01,google.com,8,N/A,N/A,(200.188.82.69) 24.091 ms 23.842 ms 27.427 ms,Success
-2024-11-20 14:53:01,google.com,9,N/A,N/A,(142.250.47.234) 11.649 ms * *,Success
-2024-11-20 14:53:01,google.com,10,N/A,N/A,* *,Success
-2024-11-20 14:53:01,google.com,11,N/A,N/A,(192.178.72.70) 18.980 ms,Success
-2024-11-20 14:53:01,google.com,192.178.81.4,N/A,(192.178.81.4),10.917 ms,Success
-2024-11-20 14:53:01,google.com,216.239.43.198,N/A,(216.239.43.198),15.071 ms,Success
-2024-11-20 14:53:01,google.com,12,N/A,N/A,(192.178.104.232) 9.718 ms,Success
-2024-11-20 14:53:01,google.com,192.178.72.41,N/A,(192.178.72.41),7.981 ms,Success
-2024-11-20 14:53:01,google.com,192.178.86.162,N/A,(192.178.86.162),9.269 ms,Success
-2024-11-20 14:53:01,google.com,13,N/A,N/A,(192.178.52.142) 9.122 ms,Success
-2024-11-20 14:53:01,google.com,192.178.104.131,N/A,(192.178.104.131),11.267 ms,Success
-2024-11-20 14:53:01,google.com,tzqroa-aa-in-f14.1e100.net,tzqroa-aa-in-f14.1e100.net,(192.178.52.142),10.505 ms,Success
-2024-11-20 14:54:17,google.com,2,N/A,N/A,(192.100.192.106) 6.049 ms 5.489 ms 4.811 ms,Success
-2024-11-20 14:54:17,google.com,3,N/A,N/A,(201.150.35.37) 4.828 ms 5.503 ms 3.786 ms,Success
-2024-11-20 14:54:17,google.com,4,N/A,N/A,(10.253.0.70) 6.946 ms 4.240 ms 3.907 ms,Success
-2024-11-20 14:54:17,google.com,5,N/A,N/A,(10.253.0.14) 3.803 ms 5.179 ms 5.840 ms,Success
-2024-11-20 14:54:17,google.com,6,N/A,N/A,(201.163.194.75) 27.428 ms 24.808 ms 25.245 ms,Success
-2024-11-20 14:54:17,google.com,7,N/A,N/A,(200.188.60.78) 23.645 ms,Success
-2024-11-20 14:54:17,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,(200.188.60.74),24.494 ms 24.861 ms,Success
-2024-11-20 14:54:17,google.com,8,N/A,N/A,(200.188.82.69) 23.336 ms,Success
-2024-11-20 14:54:17,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,(200.188.82.73),26.939 ms,Success
-2024-11-20 14:54:17,google.com,200-188-82-69.static.axtel.net,200-188-82-69.static.axtel.net,(200.188.82.69),22.983 ms,Success
-2024-11-20 14:54:17,google.com,9,N/A,N/A,(142.250.47.234) 11.031 ms 9.606 ms 9.794 ms,Success
-2024-11-20 14:54:17,google.com,10,N/A,N/A,* *,Success
-2024-11-20 14:54:17,google.com,11,N/A,N/A,(192.178.80.208) 12.590 ms,Success
-2024-11-20 14:54:17,google.com,192.178.72.30,N/A,(192.178.72.30),11.887 ms,Success
-2024-11-20 14:54:17,google.com,192.178.80.208,N/A,(192.178.80.208),11.150 ms,Success
-2024-11-20 14:54:17,google.com,12,N/A,N/A,(192.178.86.162) 8.942 ms,Success
-2024-11-20 14:54:17,google.com,192.178.72.41,N/A,(192.178.72.41),8.994 ms,Success
-2024-11-20 14:54:17,google.com,192.178.243.134,N/A,(192.178.243.134),9.095 ms,Success
-2024-11-20 14:54:17,google.com,13,N/A,N/A,(142.250.212.37) 11.334 ms,Success
-2024-11-20 14:54:17,google.com,tzqroa-aa-in-f14.1e100.net,tzqroa-aa-in-f14.1e100.net,(192.178.52.142),13.260 ms,Success
-2024-11-20 14:54:17,google.com,192.178.104.127,N/A,(192.178.104.127),9.394 ms,Success
-2024-11-20 14:55:37,google.com,2,N/A,N/A,(192.100.192.106) 5.488 ms 6.328 ms 5.492 ms,Success
-2024-11-20 14:55:37,google.com,3,N/A,N/A,(201.150.35.37) 5.591 ms 7.064 ms 6.609 ms,Success
-2024-11-20 14:55:37,google.com,4,N/A,N/A,(10.253.0.70) 6.203 ms 4.297 ms 5.606 ms,Success
-2024-11-20 14:55:37,google.com,5,N/A,N/A,(10.253.0.14) 9.876 ms 6.943 ms 5.537 ms,Success
-2024-11-20 14:55:37,google.com,6,N/A,N/A,(201.163.194.75) 23.910 ms 27.908 ms 23.771 ms,Success
-2024-11-20 14:55:37,google.com,7,N/A,N/A,(200.188.60.74) 24.224 ms 23.927 ms 23.757 ms,Success
-2024-11-20 14:55:37,google.com,8,N/A,N/A,(200.188.82.69) 23.883 ms,Success
-2024-11-20 14:55:37,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,(200.188.82.73),24.433 ms 24.874 ms,Success
-2024-11-20 14:55:37,google.com,9,N/A,N/A,142.250.47.234 (142.250.47.234) 13.270 ms 10.926 ms,Success
-2024-11-20 14:55:37,google.com,10,N/A,N/A,* *,Success
-2024-11-20 14:55:37,google.com,11,N/A,N/A,(192.178.52.142) 12.599 ms,Success
-2024-11-20 14:55:37,google.com,192.178.80.204,N/A,(192.178.80.204),11.558 ms 9.869 ms,Success
-2024-11-20 14:56:54,google.com,2,N/A,N/A,(192.100.192.106) 5.797 ms 6.077 ms 5.160 ms,Success
-2024-11-20 14:56:54,google.com,3,N/A,N/A,(201.150.35.37) 3.948 ms 3.519 ms 3.935 ms,Success
-2024-11-20 14:56:54,google.com,4,N/A,N/A,(10.253.0.70) 3.831 ms 3.348 ms 3.782 ms,Success
-2024-11-20 14:56:54,google.com,5,N/A,N/A,(10.253.0.14) 7.794 ms 5.316 ms 3.933 ms,Success
-2024-11-20 14:56:54,google.com,6,N/A,N/A,(201.163.194.75) 27.244 ms 24.996 ms 23.497 ms,Success
-2024-11-20 14:56:54,google.com,7,N/A,N/A,(200.188.60.78) 23.425 ms,Success
-2024-11-20 14:56:54,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,(200.188.60.74),27.782 ms,Success
-2024-11-20 14:56:54,google.com,200-188-60-78.static.axtel.net,200-188-60-78.static.axtel.net,(200.188.60.78),26.616 ms,Success
-2024-11-20 14:56:54,google.com,8,N/A,N/A,(200.188.82.73) 26.511 ms,Success
-2024-11-20 14:56:54,google.com,200-188-82-69.static.axtel.net,200-188-82-69.static.axtel.net,(200.188.82.69),24.447 ms,Success
-2024-11-20 14:56:54,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,(200.188.82.73),27.073 ms,Success
-2024-11-20 14:56:54,google.com,9,N/A,N/A,(142.250.47.234) 10.998 ms 13.142 ms 11.593 ms,Success
-2024-11-20 14:56:54,google.com,10,N/A,N/A,* *,Success
-2024-11-20 14:56:54,google.com,11,N/A,N/A,(192.178.80.198) 10.524 ms,Success
-2024-11-20 14:56:54,google.com,142.250.210.158,N/A,(142.250.210.158),10.858 ms,Success
-2024-11-20 14:56:54,google.com,192.178.80.202,N/A,(192.178.80.202),10.477 ms,Success
-2024-11-20 14:56:54,google.com,12,N/A,N/A,(192.178.86.162) 11.284 ms,Success
-2024-11-20 14:56:54,google.com,192.178.104.232,N/A,(192.178.104.232),10.752 ms,Success
-2024-11-20 14:56:54,google.com,192.178.72.41,N/A,(192.178.72.41),11.469 ms,Success
-2024-11-20 14:56:54,google.com,13,N/A,N/A,(192.178.104.127) 8.196 ms,Success
-2024-11-20 14:56:54,google.com,tzqroa-aa-in-f14.1e100.net,tzqroa-aa-in-f14.1e100.net,(192.178.52.142),11.073 ms 11.431 ms,Success
+2024-11-29 17:37:06,google.com,2,N/A,N/A,(192.100.192.106) 5.755 ms 3.466 ms 3.852 ms,Success
+2024-11-29 17:37:06,google.com,3,N/A,N/A,(201.150.35.37) 3.858 ms 4.755 ms 3.900 ms,Success
+2024-11-29 17:37:06,google.com,4,N/A,N/A,(10.253.0.70) 3.788 ms 5.052 ms 4.258 ms,Success
+2024-11-29 17:37:06,google.com,5,N/A,N/A,(10.253.0.14) 5.373 ms 5.422 ms 4.286 ms,Success
+2024-11-29 17:37:06,google.com,6,N/A,N/A,(201.163.194.75) 23.078 ms 23.195 ms 23.932 ms,Success
+2024-11-29 17:37:06,google.com,7,N/A,N/A,(200.188.60.78) 24.825 ms 25.126 ms,Success
+2024-11-29 17:37:06,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,200.188.60.74,25.669 ms,Success
+2024-11-29 17:37:06,google.com,8,N/A,N/A,(200.188.82.69) 23.082 ms,Success
+2024-11-29 17:37:06,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,200.188.82.73,22.982 ms 22.925 ms,Success
+2024-11-29 17:37:06,google.com,9,N/A,N/A,(142.250.47.234) 13.751 ms 12.973 ms 9.718 ms,Success
+2024-11-29 17:37:06,google.com,10,N/A,N/A,* *,Success
+2024-11-29 17:37:06,google.com,11,N/A,N/A,(142.251.235.44) 12.367 ms,Success
+2024-11-29 17:37:06,google.com,192.178.80.210,N/A,192.178.80.210,9.064 ms,Success
+2024-11-29 17:37:06,google.com,192.178.80.192,N/A,192.178.80.192,9.194 ms,Success
+2024-11-29 17:37:06,google.com,12,N/A,N/A,(192.178.72.43) 9.318 ms,Success
+2024-11-29 17:37:06,google.com,192.178.72.41,N/A,192.178.72.41,9.208 ms,Success
+2024-11-29 17:37:06,google.com,192.178.104.234,N/A,192.178.104.234,9.254 ms,Success
+2024-11-29 17:37:06,google.com,13,N/A,N/A,(192.178.104.129) 9.234 ms,Success
+2024-11-29 17:37:06,google.com,192.178.104.127,N/A,192.178.104.127,9.340 ms,Success
+2024-11-29 17:37:06,google.com,192.178.104.131,N/A,192.178.104.131,9.071 ms,Success
+2024-11-29 17:37:06,google.com,14,N/A,N/A,(192.178.52.142) 7.954 ms 10.822 ms,Success
+2024-11-29 17:37:06,google.com,192.178.72.41,N/A,192.178.72.41,8.305 ms,Success
+2024-11-29 17:40:28,google.com,2,N/A,N/A,(192.100.192.106) 3.868 ms 3.273 ms 3.894 ms,Success
+2024-11-29 17:40:28,google.com,3,N/A,N/A,(201.150.35.37) 3.938 ms 6.225 ms 5.037 ms,Success
+2024-11-29 17:40:28,google.com,4,N/A,N/A,(10.253.0.70) 3.820 ms 5.340 ms 3.793 ms,Success
+2024-11-29 17:40:28,google.com,5,N/A,N/A,(10.253.0.14) 3.879 ms 5.154 ms 6.266 ms,Success
+2024-11-29 17:40:28,google.com,6,N/A,N/A,(201.163.194.75) 23.175 ms 22.965 ms 23.415 ms,Success
+2024-11-29 17:40:28,google.com,7,N/A,N/A,(200.188.60.74) 25.288 ms * 30.481 ms,Success
+2024-11-29 17:40:28,google.com,8,N/A,N/A,(200.188.82.69) 24.492 ms,Success
+2024-11-29 17:40:28,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,200.188.82.73,24.019 ms 24.618 ms,Success
+2024-11-29 17:40:28,google.com,9,N/A,N/A,(142.250.47.234) 9.744 ms 10.913 ms 12.086 ms,Success
+2024-11-29 17:40:28,google.com,10,N/A,N/A,* *,Success
+2024-11-29 17:40:28,google.com,11,N/A,N/A,(192.178.52.142) 12.531 ms,Success
+2024-11-29 17:40:28,google.com,192.178.80.206,N/A,192.178.80.206,10.381 ms,Success
+2024-11-29 17:40:28,google.com,216.239.43.198,N/A,216.239.43.198,9.053 ms,Success
+2024-11-29 17:43:44,google.com,2,N/A,N/A,(192.100.192.106) 3.808 ms 3.240 ms 3.910 ms,Success
+2024-11-29 17:43:44,google.com,3,N/A,N/A,(201.150.35.37) 3.901 ms 5.316 ms 3.903 ms,Success
+2024-11-29 17:43:44,google.com,4,N/A,N/A,(10.253.0.70) 3.883 ms 5.652 ms 5.308 ms,Success
+2024-11-29 17:43:44,google.com,5,N/A,N/A,(10.253.0.14) 3.868 ms 3.255 ms 3.884 ms,Success
+2024-11-29 17:43:44,google.com,6,N/A,N/A,(201.163.194.75) 24.053 ms 24.111 ms 23.367 ms,Success
+2024-11-29 17:43:44,google.com,7,N/A,N/A,(200.188.60.78) 23.479 ms,Success
+2024-11-29 17:43:44,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,200.188.60.74,24.342 ms,Success
+2024-11-29 17:43:44,google.com,200-188-60-78.static.axtel.net,200-188-60-78.static.axtel.net,200.188.60.78,24.806 ms,Success
+2024-11-29 17:43:44,google.com,8,N/A,N/A,(200.188.82.73) 22.746 ms,Success
+2024-11-29 17:43:44,google.com,200-188-82-69.static.axtel.net,200-188-82-69.static.axtel.net,200.188.82.69,23.055 ms,Success
+2024-11-29 17:43:44,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,200.188.82.73,22.586 ms,Success
+2024-11-29 17:43:44,google.com,9,N/A,N/A,(142.250.47.234) 11.267 ms 11.155 ms 9.704 ms,Success
+2024-11-29 17:43:44,google.com,10,N/A,N/A,* *,Success
+2024-11-29 17:43:44,google.com,11,N/A,N/A,(192.178.80.198) 17.039 ms,Success
+2024-11-29 17:43:44,google.com,209.85.243.14,N/A,209.85.243.14,9.064 ms,Success
+2024-11-29 17:43:44,google.com,192.178.80.208,N/A,192.178.80.208,9.022 ms,Success
+2024-11-29 17:43:44,google.com,12,N/A,N/A,(192.178.86.162) 8.449 ms,Success
+2024-11-29 17:43:44,google.com,192.178.104.232,N/A,192.178.104.232,11.325 ms,Success
+2024-11-29 17:43:44,google.com,192.178.72.41,N/A,192.178.72.41,9.276 ms,Success
+2024-11-29 17:43:44,google.com,13,N/A,N/A,(192.178.104.127) 9.821 ms,Success
+2024-11-29 17:43:44,google.com,tzqroa-aa-in-f14.1e100.net,tzqroa-aa-in-f14.1e100.net,192.178.52.142,9.196 ms 8.835 ms,Success
+2024-11-29 17:51:03,google.com,N/A,N/A,N/A,N/A,Error: traceroute: unknown host google.com
+2024-11-29 17:54:25,google.com,2,N/A,N/A,(192.100.192.106) 4.050 ms 9.683 ms 4.869 ms,Success
+2024-11-29 17:54:25,google.com,3,N/A,N/A,(201.150.35.37) 3.899 ms 4.534 ms 8.774 ms,Success
+2024-11-29 17:54:25,google.com,4,N/A,N/A,(10.253.0.70) 4.880 ms 4.805 ms 3.458 ms,Success
+2024-11-29 17:54:25,google.com,5,N/A,N/A,(10.253.0.14) 3.896 ms 4.759 ms 5.657 ms,Success
+2024-11-29 17:54:25,google.com,6,N/A,N/A,(201.163.194.75) 23.908 ms 26.345 ms 24.977 ms,Success
+2024-11-29 17:54:25,google.com,7,N/A,N/A,(200.188.60.78) 23.442 ms 24.282 ms,Success
+2024-11-29 17:54:25,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,200.188.60.74,24.375 ms,Success
+2024-11-29 17:54:25,google.com,8,N/A,N/A,(200.188.82.69) 23.481 ms,Success
+2024-11-29 17:54:25,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,200.188.82.73,24.148 ms 23.991 ms,Success
+2024-11-29 17:54:25,google.com,9,N/A,N/A,142.250.47.234 (142.250.47.234) 11.069 ms 10.944 ms,Success
+2024-11-29 17:54:25,google.com,10,N/A,N/A,* *,Success
+2024-11-29 17:54:25,google.com,11,N/A,N/A,(142.251.235.44) 10.277 ms,Success
+2024-11-29 17:54:25,google.com,192.178.80.210,N/A,192.178.80.210,9.146 ms,Success
+2024-11-29 17:54:25,google.com,192.178.80.192,N/A,192.178.80.192,9.248 ms,Success
+2024-11-29 17:54:25,google.com,12,N/A,N/A,(192.178.72.43) 9.205 ms,Success
+2024-11-29 17:54:25,google.com,192.178.72.41,N/A,192.178.72.41,9.216 ms,Success
+2024-11-29 17:54:25,google.com,192.178.104.234,N/A,192.178.104.234,11.054 ms,Success
+2024-11-29 17:54:25,google.com,13,N/A,N/A,(192.178.104.129) 9.199 ms,Success
+2024-11-29 17:54:25,google.com,192.178.104.127,N/A,192.178.104.127,8.883 ms,Success
+2024-11-29 17:54:25,google.com,192.178.104.131,N/A,192.178.104.131,11.165 ms,Success
+2024-11-29 17:54:25,google.com,14,N/A,N/A,(192.178.52.142) 8.739 ms 8.930 ms,Success
+2024-11-29 17:54:25,google.com,192.178.72.41,N/A,192.178.72.41,9.357 ms,Success
+2024-11-29 17:57:51,google.com,2,N/A,N/A,(192.100.192.106) 3.891 ms 3.424 ms 3.929 ms,Success
+2024-11-29 17:57:51,google.com,3,N/A,N/A,(201.150.35.37) 3.887 ms 5.479 ms 5.116 ms,Success
+2024-11-29 17:57:51,google.com,4,N/A,N/A,(10.253.0.70) 4.605 ms 3.790 ms 5.502 ms,Success
+2024-11-29 17:57:51,google.com,5,N/A,N/A,(10.253.0.14) 4.147 ms 5.193 ms 3.889 ms,Success
+2024-11-29 17:57:51,google.com,6,N/A,N/A,(201.163.194.75) 28.042 ms 24.339 ms 25.829 ms,Success
+2024-11-29 17:57:51,google.com,7,N/A,N/A,(200.188.60.78) 24.832 ms 26.042 ms,Success
+2024-11-29 17:57:51,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,200.188.60.74,24.091 ms,Success
+2024-11-29 17:57:51,google.com,8,N/A,N/A,(200.188.82.69) 22.465 ms 22.903 ms 23.382 ms,Success
+2024-11-29 17:57:51,google.com,9,N/A,N/A,(142.250.47.234) 10.931 ms * *,Success
+2024-11-29 17:57:51,google.com,10,N/A,N/A,* *,Success
+2024-11-29 17:57:51,google.com,11,N/A,N/A,(142.250.46.236) 14.938 ms,Success
+2024-11-29 17:57:51,google.com,192.178.81.4,N/A,192.178.81.4,9.769 ms,Success
+2024-11-29 17:57:51,google.com,216.239.43.198,N/A,216.239.43.198,10.559 ms,Success
+2024-11-29 17:57:51,google.com,12,N/A,N/A,(192.178.104.232) 10.803 ms,Success
+2024-11-29 17:57:51,google.com,192.178.72.43,N/A,192.178.72.43,8.796 ms,Success
+2024-11-29 17:57:51,google.com,192.178.86.162,N/A,192.178.86.162,9.136 ms,Success
+2024-11-29 17:57:51,google.com,13,N/A,N/A,(192.178.52.142) 9.231 ms,Success
+2024-11-29 17:57:51,google.com,192.178.104.131,N/A,192.178.104.131,9.266 ms,Success
+2024-11-29 17:57:51,google.com,tzqroa-aa-in-f14.1e100.net,tzqroa-aa-in-f14.1e100.net,192.178.52.142,10.755 ms,Success
+2024-11-29 18:01:08,google.com,2,N/A,N/A,(192.100.192.106) 3.487 ms 4.765 ms 3.882 ms,Success
+2024-11-29 18:01:08,google.com,3,N/A,N/A,(201.150.35.37) 3.874 ms 4.575 ms 3.865 ms,Success
+2024-11-29 18:01:08,google.com,4,N/A,N/A,(10.253.0.70) 3.980 ms 4.985 ms 5.871 ms,Success
+2024-11-29 18:01:08,google.com,5,N/A,N/A,(10.253.0.14) 5.814 ms 4.514 ms 3.939 ms,Success
+2024-11-29 18:01:08,google.com,6,N/A,N/A,(201.163.194.75) 23.535 ms 24.125 ms 23.401 ms,Success
+2024-11-29 18:01:08,google.com,7,N/A,N/A,(200.188.60.78) 23.330 ms,Success
+2024-11-29 18:01:08,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,200.188.60.74,26.548 ms 24.620 ms,Success
+2024-11-29 18:01:08,google.com,8,N/A,N/A,(200.188.82.69) 26.952 ms,Success
+2024-11-29 18:01:08,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,200.188.82.73,26.974 ms,Success
+2024-11-29 18:01:08,google.com,200-188-82-69.static.axtel.net,200-188-82-69.static.axtel.net,200.188.82.69,24.765 ms,Success
+2024-11-29 18:01:08,google.com,9,N/A,N/A,(142.250.47.234) 10.341 ms 10.947 ms 9.711 ms,Success
+2024-11-29 18:01:08,google.com,10,N/A,N/A,* *,Success
+2024-11-29 18:01:08,google.com,11,N/A,N/A,(192.178.80.208) 17.675 ms,Success
+2024-11-29 18:01:08,google.com,192.178.72.30,N/A,192.178.72.30,10.754 ms,Success
+2024-11-29 18:01:08,google.com,192.178.80.208,N/A,192.178.80.208,10.400 ms,Success
+2024-11-29 18:01:08,google.com,12,N/A,N/A,(192.178.86.162) 11.518 ms,Success
+2024-11-29 18:01:08,google.com,192.178.72.41,N/A,192.178.72.41,8.766 ms,Success
+2024-11-29 18:01:08,google.com,192.178.243.134,N/A,192.178.243.134,39.804 ms,Success
+2024-11-29 18:01:08,google.com,13,N/A,N/A,(142.250.212.37) 13.117 ms,Success
+2024-11-29 18:01:08,google.com,tzqroa-aa-in-f14.1e100.net,tzqroa-aa-in-f14.1e100.net,192.178.52.142,9.242 ms,Success
+2024-11-29 18:01:08,google.com,192.178.104.55,N/A,192.178.104.55,16.260 ms,Success
+2024-11-29 18:04:25,google.com,2,N/A,N/A,(192.100.192.106) 3.841 ms 4.602 ms 3.988 ms,Success
+2024-11-29 18:04:25,google.com,3,N/A,N/A,(201.150.35.37) 3.845 ms 4.755 ms 5.909 ms,Success
+2024-11-29 18:04:25,google.com,4,N/A,N/A,(10.253.0.70) 3.873 ms 4.946 ms 7.180 ms,Success
+2024-11-29 18:04:25,google.com,5,N/A,N/A,(10.253.0.14) 8.544 ms 4.465 ms 10.615 ms,Success
+2024-11-29 18:04:25,google.com,6,N/A,N/A,(201.163.194.75) 24.482 ms 24.246 ms 27.050 ms,Success
+2024-11-29 18:04:25,google.com,7,N/A,N/A,(200.188.60.74) 27.518 ms 27.447 ms 24.438 ms,Success
+2024-11-29 18:04:25,google.com,8,N/A,N/A,(200.188.82.69) 35.532 ms,Success
+2024-11-29 18:04:25,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,200.188.82.73,25.897 ms 28.179 ms,Success
+2024-11-29 18:04:25,google.com,9,N/A,N/A,(142.250.47.234) 10.150 ms 10.281 ms 9.658 ms,Success
+2024-11-29 18:04:25,google.com,10,N/A,N/A,* *,Success
+2024-11-29 18:04:25,google.com,11,N/A,N/A,(192.178.52.142) 9.800 ms,Success
+2024-11-29 18:04:25,google.com,192.178.80.206,N/A,192.178.80.206,10.210 ms,Success
+2024-11-29 18:04:25,google.com,216.239.43.198,N/A,216.239.43.198,9.169 ms,Success
+2024-11-29 18:07:41,google.com,2,N/A,N/A,(192.100.192.106) 3.792 ms 3.411 ms 4.064 ms,Success
+2024-11-29 18:07:41,google.com,3,N/A,N/A,(201.150.35.37) 6.366 ms 8.533 ms 3.879 ms,Success
+2024-11-29 18:07:41,google.com,4,N/A,N/A,(10.253.0.70) 8.151 ms 4.592 ms 3.851 ms,Success
+2024-11-29 18:07:41,google.com,5,N/A,N/A,(10.253.0.14) 3.958 ms 4.892 ms 3.849 ms,Success
+2024-11-29 18:07:41,google.com,6,N/A,N/A,(201.163.194.75) 23.668 ms 24.322 ms 23.601 ms,Success
+2024-11-29 18:07:41,google.com,7,N/A,N/A,(200.188.60.78) 25.057 ms,Success
+2024-11-29 18:07:41,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,200.188.60.74,24.455 ms,Success
+2024-11-29 18:07:41,google.com,200-188-60-78.static.axtel.net,200-188-60-78.static.axtel.net,200.188.60.78,24.653 ms,Success
+2024-11-29 18:07:41,google.com,8,N/A,N/A,(200.188.82.73) 22.782 ms,Success
+2024-11-29 18:07:41,google.com,200-188-82-69.static.axtel.net,200-188-82-69.static.axtel.net,200.188.82.69,25.034 ms,Success
+2024-11-29 18:07:41,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,200.188.82.73,24.412 ms,Success
+2024-11-29 18:07:41,google.com,9,N/A,N/A,(142.250.47.234) 9.206 ms 11.862 ms 10.637 ms,Success
+2024-11-29 18:07:41,google.com,10,N/A,N/A,* *,Success
+2024-11-29 18:07:41,google.com,11,N/A,N/A,(192.178.80.198) 13.191 ms,Success
+2024-11-29 18:07:41,google.com,209.85.243.14,N/A,209.85.243.14,11.065 ms,Success
+2024-11-29 18:07:41,google.com,192.178.80.208,N/A,192.178.80.208,13.485 ms,Success
+2024-11-29 18:07:41,google.com,12,N/A,N/A,(192.178.86.162) 8.746 ms,Success
+2024-11-29 18:07:41,google.com,192.178.104.232,N/A,192.178.104.232,9.523 ms,Success
+2024-11-29 18:07:41,google.com,192.178.72.41,N/A,192.178.72.41,9.233 ms,Success
+2024-11-29 18:07:41,google.com,13,N/A,N/A,(192.178.104.127) 9.010 ms,Success
+2024-11-29 18:07:41,google.com,tzqroa-aa-in-f14.1e100.net,tzqroa-aa-in-f14.1e100.net,192.178.52.142,8.593 ms 9.190 ms,Success
+2024-11-29 18:11:22,google.com,*,N/A,N/A,(172.22.51.252) 4.807 ms,Success
+2024-11-29 18:11:22,google.com,2,N/A,N/A,(192.100.192.106) 5.434 ms 3.507 ms 3.841 ms,Success
+2024-11-29 18:11:22,google.com,3,N/A,N/A,(201.150.35.37) 6.469 ms 5.112 ms 3.829 ms,Success
+2024-11-29 18:11:22,google.com,4,N/A,N/A,(10.253.0.70) 7.924 ms 5.486 ms 5.834 ms,Success
+2024-11-29 18:11:22,google.com,5,N/A,N/A,(10.253.0.14) 5.434 ms 5.643 ms 3.831 ms,Success
+2024-11-29 18:11:22,google.com,6,N/A,N/A,(201.163.194.75) 23.538 ms 24.984 ms 25.041 ms,Success
+2024-11-29 18:11:22,google.com,7,N/A,N/A,(200.188.60.74) 23.384 ms,Success
+2024-11-29 18:11:22,google.com,200-188-60-78.static.axtel.net,200-188-60-78.static.axtel.net,200.188.60.78,25.075 ms 25.217 ms,Success
+2024-11-29 18:11:22,google.com,8,N/A,N/A,(200.188.82.69) 24.885 ms 25.395 ms,Success
+2024-11-29 18:11:22,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,200.188.82.73,24.550 ms,Success
+2024-11-29 18:11:22,google.com,9,N/A,N/A,(142.250.47.234) 11.799 ms 10.613 ms 13.086 ms,Success
+2024-11-29 18:11:22,google.com,10,N/A,N/A,* *,Success
+2024-11-29 18:11:22,google.com,11,N/A,N/A,(142.250.210.160) 16.332 ms,Success
+2024-11-29 18:11:22,google.com,192.178.80.216,N/A,192.178.80.216,9.066 ms,Success
+2024-11-29 18:11:22,google.com,142.251.78.52,N/A,142.251.78.52,8.778 ms,Success
+2024-11-29 18:11:22,google.com,12,N/A,N/A,(192.178.72.43) 9.182 ms,Success
+2024-11-29 18:11:22,google.com,192.178.72.41,N/A,192.178.72.41,9.181 ms,Success
+2024-11-29 18:11:22,google.com,192.178.243.124,N/A,192.178.243.124,10.500 ms,Success
+2024-11-29 18:11:22,google.com,13,N/A,N/A,(192.178.52.142) 25.478 ms,Success
+2024-11-29 18:11:22,google.com,142.250.212.37,N/A,142.250.212.37,14.112 ms,Success
+2024-11-29 18:11:22,google.com,192.178.104.55,N/A,192.178.104.55,11.230 ms,Success
+2024-11-29 18:14:39,google.com,2,N/A,N/A,(192.100.192.106) 3.773 ms 4.600 ms 3.863 ms,Success
+2024-11-29 18:14:39,google.com,3,N/A,N/A,(201.150.35.37) 3.920 ms 8.793 ms 4.167 ms,Success
+2024-11-29 18:14:39,google.com,4,N/A,N/A,(10.253.0.70) 3.919 ms 5.147 ms 3.816 ms,Success
+2024-11-29 18:14:39,google.com,5,N/A,N/A,(10.253.0.14) 3.941 ms 4.992 ms 3.889 ms,Success
+2024-11-29 18:14:39,google.com,6,N/A,N/A,(201.163.194.75) 23.585 ms 24.465 ms 23.412 ms,Success
+2024-11-29 18:14:39,google.com,7,N/A,N/A,(200.188.60.74) 23.480 ms,Success
+2024-11-29 18:14:39,google.com,200-188-60-78.static.axtel.net,200-188-60-78.static.axtel.net,200.188.60.78,26.215 ms,Success
+2024-11-29 18:14:39,google.com,200-188-60-74.static.axtel.net,200-188-60-74.static.axtel.net,200.188.60.74,24.831 ms,Success
+2024-11-29 18:14:39,google.com,8,N/A,N/A,(200.188.82.69) 28.544 ms,Success
+2024-11-29 18:14:39,google.com,200-188-82-73.static.axtel.net,200-188-82-73.static.axtel.net,200.188.82.73,24.792 ms,Success
+2024-11-29 18:14:39,google.com,200-188-82-69.static.axtel.net,200-188-82-69.static.axtel.net,200.188.82.69,24.991 ms,Success
+2024-11-29 18:14:39,google.com,9,N/A,N/A,(142.250.47.234) 9.676 ms 11.055 ms 9.516 ms,Success
+2024-11-29 18:14:39,google.com,10,N/A,N/A,* *,Success
+2024-11-29 18:14:39,google.com,11,N/A,N/A,(192.178.81.6) 8.550 ms,Success
+2024-11-29 18:14:39,google.com,192.178.72.62,N/A,192.178.72.62,9.189 ms,Success
+2024-11-29 18:14:39,google.com,192.178.80.214,N/A,192.178.80.214,9.319 ms,Success
+2024-11-29 18:14:39,google.com,12,N/A,N/A,(192.178.243.124) 8.935 ms,Success
+2024-11-29 18:14:39,google.com,192.178.104.230,N/A,192.178.104.230,8.791 ms,Success
+2024-11-29 18:14:39,google.com,192.178.72.41,N/A,192.178.72.41,8.993 ms,Success
+2024-11-29 18:14:39,google.com,13,N/A,N/A,(192.178.104.55) 10.372 ms,Success
+2024-11-29 18:14:39,google.com,tzqroa-aa-in-f14.1e100.net,tzqroa-aa-in-f14.1e100.net,192.178.52.142,9.059 ms,Success
+2024-11-29 18:14:39,google.com,192.178.104.59,N/A,192.178.104.59,9.231 ms,Success
