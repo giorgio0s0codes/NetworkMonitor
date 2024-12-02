@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1 class="mt-4">{{ building.name }}</h1>
+    <p><strong>Created At:</strong> {{ building.created_at }}</p>
+
+    <div class="content-section">
+        <!-- Button to fetch and display hops -->
+        <form method="POST">
+            <button type="submit" class="btn btn-primary mb-3">Show Hops</button>
+        </form>
+
+        <!-- Section to display hops -->
+        {% if traceroute_logs %}
+            <div id="hops-section" class="mt-3">
+                <h4>Traceroute Hops:</h4>
+                <ul>
+                    {% for log in traceroute_logs %}
+                        <li>Hop: {{ log.hop }}, Hostname: {{ log.hostname }}, IP: {{ log.ip_address }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        {% endif %}
+
+        <h3>Network Speed Graph</h3>
+        <iframe src="{{ url_for('static', filename='graphs/speedgraph' ~ building.id ~ '.html') }}"
+                width="100%" 
+                height="600" 
+                style="border:none;">
+        </iframe>
+    </div>
+
+    <a href="{{ url_for('home') }}" class="btn btn-secondary mt-4">Back to List</a>
+{% endblock content %}

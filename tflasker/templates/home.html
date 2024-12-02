@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1 class="mt-4">List of Buildings</h1>
+    <ul class="list-group mb-4">
+        {% for building in buildings %}
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <div>
+                    <strong>{{ building.name }}</strong>
+                </div>
+                <a href="{{ url_for('building_details', building_id=building.id) }}" 
+                   class="btn btn-primary btn-sm">
+                   View Details
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <div class="content-section">
+        <h3>Network Speed Graph</h3>
+        <iframe src="{{ url_for('static', filename='graphs/speedgraph.html') }}" 
+                width="100%" 
+                height="600" 
+                style="border:none;">
+        </iframe>
+    </div>
+{% endblock content %}
